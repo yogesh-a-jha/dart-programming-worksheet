@@ -13,3 +13,7 @@ void main() {
   }
   print('Sorted List: $numbers');
 }
+/*
+output:
+Sorted List: [1, 2, 5, 5, 6, 9]
+*/
