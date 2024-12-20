@@ -3,6 +3,6 @@ void main(){
   int b=5;
   print('Sum: ${a+b}');
   print('Difference: ${a-b}');
-  print('Product: ${a+b}');
+  print('Product: ${a*b}');
   print('Quotient: ${a/b}');
 }
