@@ -6,3 +6,11 @@ void main(){
   print('Product: ${a*b}');
   print('Quotient: ${a/b}');
 }
+
+/*
+output:
+Sum: 15  
+Difference: 5  
+Product: 50  
+Quotient: 2.0
+*/
