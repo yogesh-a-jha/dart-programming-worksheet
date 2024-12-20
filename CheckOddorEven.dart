@@ -8,3 +8,7 @@ void main(){
   }
   
 }
+/*
+output:
+The number is Odd.
+*/
