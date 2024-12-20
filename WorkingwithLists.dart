@@ -7,3 +7,7 @@ void main() {
   
   print('Sorted List: $numbers');
 }
+/*
+output:
+Sorted List: [1, 2, 3, 5, 7, 8]
+*/
