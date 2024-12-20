@@ -18,3 +18,10 @@ void main(){
   print('Multiplication: ${Multiplication(a, b)}');
   print('Division: ${Division(a, b)}');
 }
+/*
+output:
+Addition: 12  
+Subtraction: 4  
+Multiplication: 32  
+Division: 2.0
+*/
