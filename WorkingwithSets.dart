@@ -6,3 +6,7 @@ void main() {
 
   print('Final Set: $numbers');
 }
+/*
+output:
+Final Set: {1, 3, 4, 5}
+*/
