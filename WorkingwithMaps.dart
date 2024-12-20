@@ -5,3 +5,7 @@ void main() {
   
   print('Updated Map: $person');
 }
+/*
+output:
+Updated Map: {name: Alice, age: 26, city: New York, country: USA}
+*/
